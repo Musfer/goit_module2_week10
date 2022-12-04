@@ -1,0 +1,1 @@
+docker run --name redis-cache -d redis -p 6379:6379
